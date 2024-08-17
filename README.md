@@ -4,7 +4,7 @@ Sync anilist with anidb & mal, mapping gogoanime sub & dub identifiers
 Example:
 
 ```
-https://raw.githubusercontent.com/kruncx/anilistsync/main/data/1.json
+https://raw.githubusercontent.com/pixilated730/analysticsync/main/data/1.json
 ```
 
 Response:
